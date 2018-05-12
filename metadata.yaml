@@ -1,0 +1,30 @@
+_repo: Sint-Nikolaas-en-het-Sint-Nikolaas-feest_34555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hengel, Wessel Albertus van
+    aliases:
+    - Hengel, W. A. van (Wessel Albertus)
+    - Van Hengel, Wessel Albertus
+    - Hengel, Wesselius Albertus van
+    birthdate: 1779
+    deathdate: 1871
+    gutenberg_agent_id: '37081'
+    url: http://www.gutenberg.org/2009/agents/37081
+description: ''
+gutenberg_issued: '2010-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34555'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nicholas, Saint, Bishop of Myra'
+- !lcc 'BR'
+title: Sint-Nikolaas en het Sint-Nikolaas-feest
+url: http://www.gutenberg.org/ebooks/34555
