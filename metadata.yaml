@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '37081'
     url: http://www.gutenberg.org/2009/agents/37081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34555#Sint-Nikolaas-en-het-Sint-Nikolaas-feest
 gutenberg_issued: '2010-12-03'
 gutenberg_type: Text
 identifiers:
